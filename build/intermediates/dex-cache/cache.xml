@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\hp\Desktop\mobile\Coin\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\hp\Desktop\mobile\Coin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_6dde8675e3c0817fdbef065db5654ee6cb345932\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hp\Desktop\mobile\Coin\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\hp\Desktop\mobile\Coin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_112903a751c4be1a768f36e43df1c50e23441eec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hp\Desktop\mobile\Coin\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\hp\Desktop\mobile\Coin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_170e0c3f63456c967ae168d8009083f94c2e9523\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hp\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.0\7ff0e000d1e27e356567f56c92af3b8ab912636f\picasso-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7ff0e000d1e27e356567f56c92af3b8ab912636f">
+        <dex dex="C:\Users\hp\Desktop\mobile\Coin\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.0_6a7d2c692f4a7372addb0538986de86666a29064\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hp\Desktop\mobile\Coin\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bcf64e0ec1184d499991ba65888cc6bce0d6cbed">
+        <dex dex="C:\Users\hp\Desktop\mobile\Coin\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f2a0aa9b22a2a87e4c3f50ae2725f8ba5503d66b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hp\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\hp\Desktop\mobile\Coin\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_ddb5dfc1ca6a977145e9aeb2c86fef258a505a75\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hp\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\hp\Desktop\mobile\Coin\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.3.1_3bcbbdd8bebaf71cd85e5b1e98b4d00d796ec85b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hp\Desktop\mobile\Coin\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\hp\Desktop\mobile\Coin\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_cf0e9c10188d393366df35c3f187ec3bf3a01f40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hp\Desktop\mobile\Coin\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\hp\Desktop\mobile\Coin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_27421cfec2c54f92a2d95ee8483264136d6fa3e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hp\Desktop\mobile\Coin\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fac403a9f241fa1e512307b8568ccadd607a8bd1">
+        <dex dex="C:\Users\hp\Desktop\mobile\Coin\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4a38245c64a9eb15d35cba6d520d048e929381dd\classes.dex" />
+    </item>
+
+</items>
