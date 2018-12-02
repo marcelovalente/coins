@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Coin</string>
+    <string name="name">Nome</string>
+    <string name="price">Preço</string>
+    <string name="priceDollar">Preço USD</string>
+    <string name="priceBtc">Preço BTC</string>
+    <string name="volume">Volume 24h</string>
+    <string name="marketCap">Market Cap</string>
+    <string name="avaiable">Avaiable</string>
+    <string name="total">Total</string>
+    <string name="pct1h">Pct 1h</string>
+    <string name="pct24h">Pct 24h</string>
+    <string name="pct7d">Pct 7d</string>
+    <string name="update">Atualizado em</string>
+</resources>
